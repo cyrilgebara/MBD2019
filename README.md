@@ -1,6 +1,6 @@
 #Data Scientist 
 
-Projects done during my work as a Data Scientits can't be uploaded due to confidentiality
+Projects done during my work as a Data Scientist can't be uploaded due to confidentiality
 
 #MBD_IE
 
